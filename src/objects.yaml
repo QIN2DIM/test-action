@@ -294,16 +294,16 @@ label_alias:
     - 机动车
     en:
     - motor vehicle
+  chess_piece2309:
+    zh:
+    - 棋子
+    en:
+    - chess piece
   robot2312:
     zh:
     - 机器人
     en:
     - robot
-  dog2312:
-    zh:
-    - 狗
-    en:
-    - dog
   seaplane:
     zh:
     - 水上飞机
@@ -430,8 +430,8 @@ label_alias:
     - 裤子
     en:
     - trousers
-  chess_piece2310:
+  dog2314:
     zh:
-    - 棋子
+    - 狗
     en:
-    - chess piece
+    - dog
