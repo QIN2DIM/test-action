@@ -3,7 +3,7 @@ name: hCAPTCHA Annotator
 on:
   workflow_dispatch:
   release:
-    types: [edited]
+    types: [published]
 jobs:
   annotate:
     env:
