@@ -294,6 +294,11 @@ label_alias:
     - 机动车
     en:
     - motor vehicle
+  chess_piece2309:
+    zh:
+    - 棋子
+    en:
+    - chess piece
   robot2312:
     zh:
     - 机器人
@@ -430,8 +435,6 @@ label_alias:
     - 裤子
     en:
     - trousers
-  chess_piece2311:
-    zh:
-    - 棋子
+  hong_kong_doll2311:
     en:
-    - chess piece
+    - hong kong doll
